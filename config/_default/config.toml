@@ -1,0 +1,15 @@
+_merge = "deep"
+
+languageCode = 'fr-fr'
+title = "Direction générale de l'enseignement supérieur et de l'insertion professionnelle"
+
+[module]
+[[module.imports]]
+path = 'github.com/disic/frago'
+
+[outputs]
+ home    = ["HTML","JSON"]
+
+[params]
+  organisation = "Direction générale de l'enseignement supérieur et de l'insertion professionnelle"
+  robots = "noindex, nofollow"
