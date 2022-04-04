@@ -11,5 +11,5 @@ path = 'github.com/disic/frago'
  home    = ["HTML","JSON"]
 
 [params]
-  organisation = "Direction générale de l'enseignement supérieur et de l'insertion professionnelle"
+  organisation = "La direction générale de l'enseignement supérieur et de l'insertion professionnelle"
   robots = "noindex, nofollow"
